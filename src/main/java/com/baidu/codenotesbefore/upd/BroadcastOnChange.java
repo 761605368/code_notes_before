@@ -1,4 +1,4 @@
-package com.baidu.codenotes.upd;
+package com.baidu.codenotesbefore.upd;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

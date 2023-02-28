@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.baidu</groupId>
-    <artifactId>codenotes</artifactId>
+    <artifactId>codenotesbefore</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>codenotes</name>
+    <name>codenotesbefore</name>
     <description>code_notes_pre for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>

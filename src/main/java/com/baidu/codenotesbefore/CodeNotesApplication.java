@@ -1,4 +1,4 @@
-package com.baidu.codenotes;
+package com.baidu.codenotesbefore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
